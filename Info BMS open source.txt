@@ -1,0 +1,31 @@
+---------------------------------------------------------------------------------
+-------------------------------- BMS Open Source --------------------------------
+
+Autor: Giovane Ronei Sylvestrin
+Contato: giovane.sylvestrin@gmail.com
+
+Descrição: 
+- Monitoramento tensão: 10 canais
+- Monitoramente de corrente com sensor INA219 ou ACS712
+- Monitoramento de temperatura: 8 canais
+- Sistema datalloger
+- Estimação para estado de carga utilizando filtro de Kalman estentido (EKF)
+- Interface do usuário via Node-RED e plataforma IBM Watson
+
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+
+Arquivos disponibilizados:
+
+- Especificações de Hardware e Software do protótipo
+- Source utilizada no software Node-RED para interface do usuário Local e Remoto
+	Source_interface_local_padrao.txt
+	Source_interface_local_multicanal.txt
+	Source_interface_remota.txt
+	Informações para uso: https://nodered.org/
+- Esquemático placa principal
+- Esquemático placa de temperatura
+- Algoritmos
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+
